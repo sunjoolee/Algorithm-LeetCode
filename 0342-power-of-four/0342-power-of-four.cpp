@@ -1,12 +1,13 @@
+#include <cmath>
+
 class Solution {
 public:
     bool isPowerOfFour(int n) {
         if(n <= 0) return false;
-        
-        while(n>1){
-            if(n % 4 == 0) n/=4;
-            else return false;
-        }
+
+        double log2n = log2(n);
+        if((int)log2n != ceil(log2n)) return false;
+        if((int)log2n % 2 != 0) return false;
         return true;
     }
 };
