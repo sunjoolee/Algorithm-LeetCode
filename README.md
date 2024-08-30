@@ -67,4 +67,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+## Array
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
