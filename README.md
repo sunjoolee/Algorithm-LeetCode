@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [2428-equal-row-and-column-pairs](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
@@ -85,4 +86,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
