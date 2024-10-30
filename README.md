@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1833-find-the-highest-altitude](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2428-equal-row-and-column-pairs](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
@@ -90,4 +91,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1833-find-the-highest-altitude](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
