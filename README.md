@@ -94,4 +94,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/1833-find-the-highest-altitude) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
