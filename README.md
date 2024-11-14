@@ -104,10 +104,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0112-path-sum](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/0113-path-sum-ii) |
+| [0547-number-of-provinces](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/0112-path-sum) |
+| [0547-number-of-provinces](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -117,4 +119,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/0113-path-sum-ii) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/sunjoolee/Algorithm-LeetCode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
